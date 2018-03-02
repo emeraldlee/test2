@@ -5,6 +5,7 @@ import java.text.NumberFormat;
 import java.util.Scanner;
 
 	public class TipBot {
+	//this is a test comment
 
 		public static void main(String[] args) {
 			double subtotal = 0;
